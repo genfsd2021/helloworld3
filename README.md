@@ -6,4 +6,4 @@ I am Jean!
 
 Heelo its lunch time.... 
 
-aaaabbbbb
+ccdd - example resolving a bug
